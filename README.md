@@ -1,4 +1,4 @@
-my_projeckt tttttttttttttttttttt
+my_projeckt tttyyyyyyyyyyyyyy
 ===========
 
 test
